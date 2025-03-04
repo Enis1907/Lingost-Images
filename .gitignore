@@ -1,0 +1,7 @@
+git clone https://github.com/KULLANICIADI/REPOADI.git
+cd REPOADI
+echo "# İlk Repo" > README.md
+git add README.md
+git commit -m "README dosyası eklendi"
+git push origin main
+
